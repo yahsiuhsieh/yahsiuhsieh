@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-<img width = "30%" align="right" alt="PIC" height="200px" src="https://www.linkpicture.com/view.php?img=LPic622e3e6f3632e1468726778" />
+<img width = "30%" align="right" alt="PIC" height="200px" src="https://www.linkpicture.com/q/ucsd_1.png" />
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
