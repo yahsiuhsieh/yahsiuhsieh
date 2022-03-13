@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-<img width = "35%" align="right" alt="PIC" height="150px" src="https://www.linkpicture.com/q/ucsd-logo.png" />
+<img width = "35%" align="right" alt="PIC" height="140px" src="https://www.linkpicture.com/q/ucsd-logo.png" />
+</div>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
