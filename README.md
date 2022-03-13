@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - ⚡ &nbsp;
   Planning, Control, Machine Learning, Reinforcement Learning
 - 🔧 &nbsp;
-  ROS | PyTorch | Linux | Gazebo | Git | Docker | OMPL | OpenAI Gym | Airflow
+  ROS | PyTorch | Linux | Gazebo | Git | Docker | OpenAI Gym | Airflow
   
 <!--<div>
   <h3> 💻 Languages and Tools </h3>
