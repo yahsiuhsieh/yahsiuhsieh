@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔍 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
-  - 🔍 &nbsp; Actively looking for 2022 software engineer summer internships 
+  - 🔭 &nbsp; Currently working as a Software Developer at Torc Robotics
   - 🎓 &nbsp; M.S. in Electrical & Computer Engineering at UCSD
-  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement
-  - ✍️ &nbsp; Interested in Full Stack Development / Data Analytics / Machine Learning  
+  - 🌱 &nbsp; Learning more about Autonomous Driving Software Stack
+  - 😄 &nbsp; Interested in Self Driving and Robotics Technology
 </div> 
 </div>
 
@@ -32,34 +32,28 @@ Here are some ideas to get you started:
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  C++ | Python | R (Statistics)
-- 🌐 &nbsp;
-  HTML | JavaScript | CSS | PHP | D3.js | Node.js | ReactJS
-- 🛢 &nbsp;
-  MySQL
-- ⚙️ &nbsp;
-  Github | Markdown
+  C++ | Python
+- ⚡ &nbsp;
+  Planning, Control, Machine Learning, Reinforcement Learning
 - 🔧 &nbsp;
-  Visual Studio Code | RStudio | Tensorflow | Keras | Anaconda | Jupyter Notebook
+  ROS | PyTorch | Linux | Gazebo | Git | Docker | OMPL | OpenAI Gym | Airflow
   
-<!--<div>
-  <h3> 💻 Languages and Tools </h3>
-  <p>
-    <img src="https://www.linkpicture.com/q/c_3.png" width="50">
-    <img title="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="50" />
-    <img src="https://www.linkpicture.com/q/html_3.png" width="50">
-    <img src="https://www.linkpicture.com/q/js_10.png" width="55" height="55px">
-    <img src="https://www.linkpicture.com/q/css_1.png" width="50">
-    <img src="https://www.linkpicture.com/q/php_1.png" width="40">
-    <img src="https://www.linkpicture.com/q/d3js.png" width="45">
-    <img src="https://www.linkpicture.com/q/jupyter.png" width="50">
-    <img src="https://www.linkpicture.com/q/nodejs.png" width="80" height="65">
-    <img src="https://www.linkpicture.com/q/mysql.png" width="50">
-    <img src="https://www.linkpicture.com/q/tensorflow.png" width="100">
-    <img src="https://www.linkpicture.com/q/react_1.png" width="130">
-    <img src="https://www.linkpicture.com/q/vscode.png" width="150" height="65">
-  <p>
-</div> -->
+<h3> 💻 Languages and Tools </h3>
+<p>
+  <img src="https://www.linkpicture.com/q/c_3.png" width="50">
+  <img title="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="50" />
+  <img src="https://www.linkpicture.com/q/html_3.png" width="50">
+  <img src="https://www.linkpicture.com/q/js_10.png" width="55" height="55px">
+  <img src="https://www.linkpicture.com/q/css_1.png" width="50">
+  <img src="https://www.linkpicture.com/q/php_1.png" width="40">
+  <img src="https://www.linkpicture.com/q/d3js.png" width="45">
+  <img src="https://www.linkpicture.com/q/jupyter.png" width="50">
+  <img src="https://www.linkpicture.com/q/nodejs.png" width="80" height="65">
+  <img src="https://www.linkpicture.com/q/mysql.png" width="50">
+  <img src="https://www.linkpicture.com/q/tensorflow.png" width="100">
+  <img src="https://www.linkpicture.com/q/react_1.png" width="130">
+  <img src="https://www.linkpicture.com/q/vscode.png" width="150" height="65">
+<p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/yahsiuhsieh/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
