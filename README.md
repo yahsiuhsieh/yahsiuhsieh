@@ -1,5 +1,5 @@
 <!--
-**GODZAOZAO/GODZAOZAO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yahsiuhsieh/yahsiuhsieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there! I'm Shao Chun Wang 👋 </h1>
-<h3 align="center">🚀 Full Stack Developer | Data Analyst | Machine Learning  🚀</h3>
+<h1 align="center">Hi there! I'm Yahsiu Hsieh 👋 </h1>
+<h3 align="center">🚀 Robotics Engineer | Software Developer | Planning and Control  🚀</h3>
 
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-<img width = "30%" align="right" alt="PIC" height="120px" src="https://www.linkpicture.com/q/virgnia_tech.png" />
+<img width = "30%" align="right" alt="PIC" height="120px" src="https://www.linkpicture.com/q/ucsd.png" />
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
