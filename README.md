@@ -72,15 +72,11 @@ Here are some ideas to get you started:
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  C++ | Python | R (Statistics)
-- 🌐 &nbsp;
-  HTML | JavaScript | CSS | PHP | D3.js | Node.js | ReactJS
-- 🛢 &nbsp;
-  MySQL
-- ⚙️ &nbsp;
-  Github | Markdown
+  C++ | Python
+- ⚡ &nbsp;
+  Planning, Control, Machine Learning, Reinforcement Learning
 - 🔧 &nbsp;
-  Visual Studio Code | RStudio | Tensorflow | Keras | Anaconda | Jupyter Notebook
+  ROS | PyTorch | Linux | Gazebo | Git | Docker | OpenAI Gym | Airflow
   
 <!--<div>
   <h3> 💻 Languages and Tools </h3>
