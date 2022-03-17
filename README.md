@@ -58,8 +58,8 @@ Here are some ideas to get you started:
 </div> -->
 
 <p align="center">
-<a href="https://www.linkedin.com/in/shao-chun-wang/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
-<a href="mailto:shaochun@vt.edu"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/yahsiuhsieh/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
+<a href="mailto:arthur960304@gmail.com"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
 </p>
 
 <!--https://icons8.com/icons/set/svg-->
