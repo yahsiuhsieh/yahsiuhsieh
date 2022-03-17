@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
-  - 🔭 &nbsp; Currently working as a Software Developer at Torc Robotics
+  - 🔭 &nbsp; Currently working as a Software Developer @ Torc Robotics
   - 🎓 &nbsp; M.S. in Electrical & Computer Engineering at UCSD
   - 🌱 &nbsp; Learning more about Autonomous Driving Software Stack
   - 😄 &nbsp; Interested in Self Driving and Robotics Technology
