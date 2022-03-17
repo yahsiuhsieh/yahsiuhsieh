@@ -23,7 +23,6 @@ Here are some ideas to get you started:
   - 🎓 &nbsp; M.S. in Electrical & Computer Engineering at UCSD
   - 🌱 &nbsp; Learning more about Autonomous Driving Software Stack
   - 😄 &nbsp; Interested in Self Driving and Robotics Technology
-</div> 
 </div>
 
 <div>
