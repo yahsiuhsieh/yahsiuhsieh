@@ -1,33 +1,6 @@
 <!--
 **yahsiuhsieh/yahsiuhsieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔍 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hi there! I'm Yahsiu Hsieh 👋 </h1>
-<h3 align="center">🚀 Robotics Engineer | Software Developer | Planning and Control  🚀</h3>
-
-<div align="left"> 
-  <h3> 👨🏻‍💻 About Me </h3>
-
-  - 🔭 &nbsp; Currently working as a Software Developer @ Torc Robotics
-  - 🎓 &nbsp; M.S. in Electrical & Computer Engineering at UCSD
-  - 🌱 &nbsp; Learning more about Autonomous Driving Software Stack
-  - 😄 &nbsp; Interested in Self Driving and Robotics Technology
-</div>
-
-<div>
-<img width = "35%" align="right" alt="PIC" height="130px" src="https://www.linkpicture.com/q/ucsd-logo.png" />
-</div>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -80,21 +53,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there! I'm Shao Chun Wang 👋 </h1>
-<h3 align="center">🚀 Full Stack Developer | Data Analyst | Machine Learning  🚀</h3>
+<h1 align="center">Hi there! I'm Yahsiu Hsieh 👋 </h1>
+<h3 align="center">🚀 Robotics Engineer | Software Developer | Planning and Control  🚀</h3>
 
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
-  - 🔍 &nbsp; Actively looking for 2022 software engineer summer internships 
-  - 🎓 &nbsp; Studying M.S. in Computer Science at Virginia Tech
-  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement
-  - ✍️ &nbsp; Interested in Full Stack Development / Data Analytics / Machine Learning  
-</div> 
+  - 🔭 &nbsp; Currently working as a Software Developer @ Torc Robotics
+  - 🎓 &nbsp; M.S. in Electrical & Computer Engineering at UCSD
+  - 🌱 &nbsp; Learning more about Autonomous Driving Software Stack
+  - 😄 &nbsp; Interested in Self Driving and Robotics Technology
 </div>
 
 <div>
-<img width = "30%" align="right" alt="PIC" height="120px" src="https://www.linkpicture.com/q/virgnia_tech.png" />
+<img width = "35%" align="right" alt="PIC" height="130px" src="https://www.linkpicture.com/q/ucsd-logo.png" />
+</div>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
