@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there! I'm Yahsiu Hsieh 👋 </h1>
 <h3 align="center">🚀 Robotics Engineer | Software Developer | Planning and Control  🚀</h3>
 
-<div align="center"> 
+<div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
   - 🔭 &nbsp; Currently working as a Software Developer @ Torc Robotics
