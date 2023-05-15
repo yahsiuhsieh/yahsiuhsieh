@@ -16,17 +16,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there! I'm Yahsiu Hsieh 👋 </h1>
 <h3 align="center">🚀 Robotics Engineer | Software Developer | Planning and Control  🚀</h3>
 
-<div align="left"> 
+<div align="center"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
   - 🔭 &nbsp; Currently working as a Software Developer @ Torc Robotics
   - 🎓 &nbsp; M.S. in Electrical & Computer Engineering at UCSD
   - 🌱 &nbsp; Learning more about Autonomous Driving Software Stack
   - 😄 &nbsp; Interested in Self Driving and Robotics Technology
-</div>
-
-<div>
-<img width = "35%" align="right" alt="PIC" height="130px" src="https://www.linkpicture.com/q/ucsd-logo.png" />
 </div>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
